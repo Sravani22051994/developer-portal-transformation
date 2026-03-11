@@ -106,7 +106,8 @@ The transformation focused on:
 - Event-driven funnel tracking
 - Governance across product suites
 
-See `/diagrams/dev-portal-funnel.png` for simplified architecture.
+Simplified workflow diagram :
+![Developer Portal Funnel](dev-portal-funnel.png) 
 
 ---
 
